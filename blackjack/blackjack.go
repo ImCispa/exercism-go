@@ -9,4 +9,5 @@ func ParseCard(card string) int {
 // player and one card of the dealer.
 func FirstTurn(card1, card2, dealerCard string) string {
 	panic("Please implement the FirstTurn function")
+	a
 }
